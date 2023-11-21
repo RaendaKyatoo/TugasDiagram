@@ -1,0 +1,380 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "Untitled",
+	"ownedElements": [
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAFF+qBWK6M3Z8Y=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Model",
+			"ownedElements": [
+				{
+					"_type": "DFDDataFlowModel",
+					"_id": "AAAAAAGL0JQviSXsmAc=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "DataFlowModel1",
+					"ownedElements": [
+						{
+							"_type": "DFDDiagram",
+							"_id": "AAAAAAGL0JQviSXt/eQ=",
+							"_parent": {
+								"$ref": "AAAAAAGL0JQviSXsmAc="
+							},
+							"name": "DFDDiagram1",
+							"ownedViews": [
+								{
+									"_type": "DFDExternalEntityView",
+									"_id": "AAAAAAGL0JUgCiXzdRA=",
+									"_parent": {
+										"$ref": "AAAAAAGL0JQviSXt/eQ="
+									},
+									"model": {
+										"$ref": "AAAAAAGL0JUgCSXxbAE="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGL0JUgDCX584E=",
+											"_parent": {
+												"$ref": "AAAAAAGL0JUgCiXzdRA="
+											},
+											"font": "Arial;13;0",
+											"left": 394,
+											"top": 53,
+											"width": 156,
+											"height": 13
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGL0JUgCiX0VeE=",
+											"_parent": {
+												"$ref": "AAAAAAGL0JUgCiXzdRA="
+											},
+											"font": "Arial;13;0",
+											"left": 394,
+											"top": 58,
+											"width": 156,
+											"height": 13,
+											"text": "Bendahara PPDB",
+											"wordWrap": true
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGL0JUgCyX1VEs=",
+											"_parent": {
+												"$ref": "AAAAAAGL0JUgCiXzdRA="
+											},
+											"font": "Arial;13;0",
+											"height": 13
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 384,
+									"top": 48,
+									"width": 176,
+									"height": 33,
+									"nameLabel": {
+										"$ref": "AAAAAAGL0JUgCiX0VeE="
+									}
+								},
+								{
+									"_type": "EllipseView",
+									"_id": "AAAAAAGL0JWpwiX+6So=",
+									"_parent": {
+										"$ref": "AAAAAAGL0JQviSXt/eQ="
+									},
+									"font": "Arial;13;0",
+									"left": 416,
+									"top": 200,
+									"width": 120,
+									"height": 121
+								},
+								{
+									"_type": "UMLTextView",
+									"_id": "AAAAAAGL0JX/ySYDHtA=",
+									"_parent": {
+										"$ref": "AAAAAAGL0JQviSXt/eQ="
+									},
+									"font": "Arial;13;0",
+									"left": 456,
+									"top": 200,
+									"width": 60,
+									"height": 25,
+									"text": "0.0"
+								},
+								{
+									"_type": "UMLTextView",
+									"_id": "AAAAAAGL0JZgiSYLPzM=",
+									"_parent": {
+										"$ref": "AAAAAAGL0JQviSXt/eQ="
+									},
+									"font": "Arial;13;0",
+									"left": 432,
+									"top": 240,
+									"width": 121,
+									"height": 38,
+									"text": "Sistem PPDB"
+								},
+								{
+									"_type": "DFDExternalEntityView",
+									"_id": "AAAAAAGL0JbP4CYU5zk=",
+									"_parent": {
+										"$ref": "AAAAAAGL0JQviSXt/eQ="
+									},
+									"model": {
+										"$ref": "AAAAAAGL0JbP4CYST+Q="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGL0JbP4SYaxFs=",
+											"_parent": {
+												"$ref": "AAAAAAGL0JbP4CYU5zk="
+											},
+											"font": "Arial;13;0",
+											"left": 634,
+											"top": 245,
+											"width": 109.83349609375,
+											"height": 13
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGL0JbP4CYVc/g=",
+											"_parent": {
+												"$ref": "AAAAAAGL0JbP4CYU5zk="
+											},
+											"font": "Arial;13;0",
+											"left": 634,
+											"top": 250,
+											"width": 109.83349609375,
+											"height": 13,
+											"text": "Sekolah(Pimpinan)",
+											"wordWrap": true
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGL0JbP4CYWZJY=",
+											"_parent": {
+												"$ref": "AAAAAAGL0JbP4CYU5zk="
+											},
+											"font": "Arial;13;0",
+											"top": 128,
+											"height": 13
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 624,
+									"top": 240,
+									"width": 129.83349609375,
+									"height": 48,
+									"nameLabel": {
+										"$ref": "AAAAAAGL0JbP4CYVc/g="
+									}
+								},
+								{
+									"_type": "FreelineEdgeView",
+									"_id": "AAAAAAGL0JdUESYxxJw=",
+									"_parent": {
+										"$ref": "AAAAAAGL0JQviSXt/eQ="
+									},
+									"font": "Arial;13;0",
+									"lineStyle": 1,
+									"points": "472:80;472:200"
+								},
+								{
+									"_type": "FreelineEdgeView",
+									"_id": "AAAAAAGL0Je9BiY3/Ps=",
+									"_parent": {
+										"$ref": "AAAAAAGL0JQviSXt/eQ="
+									},
+									"font": "Arial;13;0",
+									"lineStyle": 1,
+									"points": "536:264;625:264"
+								},
+								{
+									"_type": "DFDExternalEntityView",
+									"_id": "AAAAAAGL0JfpoSY941s=",
+									"_parent": {
+										"$ref": "AAAAAAGL0JQviSXt/eQ="
+									},
+									"model": {
+										"$ref": "AAAAAAGL0JfpoSY7om4="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGL0JfpoSZDB/o=",
+											"_parent": {
+												"$ref": "AAAAAAGL0JfpoSY941s="
+											},
+											"font": "Arial;13;0",
+											"left": 218,
+											"top": 237,
+											"width": 108,
+											"height": 13
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGL0JfpoSY+nxs=",
+											"_parent": {
+												"$ref": "AAAAAAGL0JfpoSY941s="
+											},
+											"font": "Arial;13;0",
+											"left": 218,
+											"top": 242,
+											"width": 108,
+											"height": 13,
+											"text": "Calon Siswa",
+											"wordWrap": true
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAGL0JfpoSY/EaY=",
+											"_parent": {
+												"$ref": "AAAAAAGL0JfpoSY941s="
+											},
+											"font": "Arial;13;0",
+											"top": 16,
+											"height": 13
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 208,
+									"top": 232,
+									"width": 128,
+									"height": 65,
+									"nameLabel": {
+										"$ref": "AAAAAAGL0JfpoSY+nxs="
+									}
+								},
+								{
+									"_type": "FreelineEdgeView",
+									"_id": "AAAAAAGL0Jg6GSZJyR0=",
+									"_parent": {
+										"$ref": "AAAAAAGL0JQviSXt/eQ="
+									},
+									"font": "Arial;13;0",
+									"lineStyle": 1,
+									"points": "336:264;416:263"
+								},
+								{
+									"_type": "FreelineEdgeView",
+									"_id": "AAAAAAGL0JiKHCZPvRo=",
+									"_parent": {
+										"$ref": "AAAAAAGL0JQviSXt/eQ="
+									},
+									"font": "Arial;13;0",
+									"lineStyle": 1,
+									"points": "336:248;419:250"
+								},
+								{
+									"_type": "UMLTextView",
+									"_id": "AAAAAAGL0Jin6SZTFrQ=",
+									"_parent": {
+										"$ref": "AAAAAAGL0JQviSXt/eQ="
+									},
+									"font": "Arial;13;0",
+									"left": 336,
+									"top": 200,
+									"width": 81,
+									"height": 51,
+									"text": "Data Calon Siswa"
+								},
+								{
+									"_type": "UMLTextView",
+									"_id": "AAAAAAGL0Jji+CZZ/Vw=",
+									"_parent": {
+										"$ref": "AAAAAAGL0JQviSXt/eQ="
+									},
+									"font": "Arial;13;0",
+									"left": 344,
+									"top": 272,
+									"width": 60,
+									"height": 25,
+									"text": "Nilai"
+								},
+								{
+									"_type": "FreelineEdgeView",
+									"_id": "AAAAAAGL0JkYxSZeRH4=",
+									"_parent": {
+										"$ref": "AAAAAAGL0JQviSXt/eQ="
+									},
+									"font": "Arial;13;0",
+									"points": "472:320;480:320;480:376;272:376;272:296"
+								},
+								{
+									"_type": "UMLTextView",
+									"_id": "AAAAAAGL0JmmQSZqFdM=",
+									"_parent": {
+										"$ref": "AAAAAAGL0JQviSXt/eQ="
+									},
+									"font": "Arial;13;0",
+									"left": 344,
+									"top": 384,
+									"width": 60,
+									"height": 25,
+									"text": "Hasil"
+								},
+								{
+									"_type": "UMLTextView",
+									"_id": "AAAAAAGL0JnVOSZvJPo=",
+									"_parent": {
+										"$ref": "AAAAAAGL0JQviSXt/eQ="
+									},
+									"font": "Arial;13;0",
+									"left": 552,
+									"top": 240,
+									"width": 60,
+									"height": 25,
+									"text": "Laporan"
+								},
+								{
+									"_type": "UMLTextView",
+									"_id": "AAAAAAGL0JoisSZ2fzE=",
+									"_parent": {
+										"$ref": "AAAAAAGL0JQviSXt/eQ="
+									},
+									"font": "Arial;13;0",
+									"left": 472,
+									"top": 136,
+									"width": 69.28076171875,
+									"height": 38,
+									"text": "Laporan Keuangan"
+								}
+							]
+						},
+						{
+							"_type": "DFDExternalEntity",
+							"_id": "AAAAAAGL0JUgCSXxbAE=",
+							"_parent": {
+								"$ref": "AAAAAAGL0JQviSXsmAc="
+							},
+							"name": "Bendahara PPDB"
+						},
+						{
+							"_type": "DFDExternalEntity",
+							"_id": "AAAAAAGL0JbP4CYST+Q=",
+							"_parent": {
+								"$ref": "AAAAAAGL0JQviSXsmAc="
+							},
+							"name": "Sekolah(Pimpinan)"
+						},
+						{
+							"_type": "DFDExternalEntity",
+							"_id": "AAAAAAGL0JfpoSY7om4=",
+							"_parent": {
+								"$ref": "AAAAAAGL0JQviSXsmAc="
+							},
+							"name": "Calon Siswa"
+						}
+					]
+				}
+			]
+		}
+	]
+}
